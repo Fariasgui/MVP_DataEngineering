@@ -36,24 +36,6 @@ O projeto busca responder às seguintes perguntas:
 * Delta Lake
 * Python
 
-## Estrutura do Repositório
-
-```text
-MVP_DataEngineering/
-├── README.md
-├── docs/
-│   └── MVP_Data_Engineering.pdf
-├── notebooks/
-│   ├── 01_ingestion_bronze.ipynb
-│   ├── 02_bronze_to_silver.ipynb
-│   ├── 03_silver_to_gold.ipynb
-│   └── 04_data_analysis.ipynb
-└── data/
-    ├── pokemon.csv
-    ├── combats.csv
-    └── tests.csv
-```
-
 ## Notebooks
 
 | Notebook              | Descrição                                       |
