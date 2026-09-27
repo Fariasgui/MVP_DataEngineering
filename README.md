@@ -55,4 +55,4 @@ A infraestrutura desenvolvida permite que os dados tratados da camada Gold sejam
 
 A documentação completa do projeto, incluindo arquitetura, catálogo de dados, regras de qualidade, evidências da execução e análise dos resultados, está disponível em:
 
-`docs/MVP_Data_Engineering.pdf`
+`MVP - Data Engineering.pdf`
